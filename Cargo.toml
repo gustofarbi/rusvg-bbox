@@ -1,0 +1,11 @@
+[package]
+name = "rustvg"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+anyhow = "1.0.79"
+# [sic] do not update this until results are checked
+usvg = "0.32.0"

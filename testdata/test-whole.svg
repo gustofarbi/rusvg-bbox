@@ -1,0 +1,588 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 595.3 841.9">
+    <defs>
+        <clipPath id="clip-path">
+            <rect y="0.00087" width="594.26468" height="551.55917" fill="none"/>
+        </clipPath>
+    </defs>
+    <g id="calendar">
+        <g id="_-line-ref" data-name="-line-ref">
+            <rect id="paper_blue" data-name="paper blue" x="220.24093" y="236.25784" width="51.8052" height="592.89394"
+                  transform="translate(512.23724 1055.72985) rotate(177.83482)" fill="#a4eae8"/>
+            <g id="Ebene_18" data-name="Ebene 18">
+                <rect x="229.13231" y="202.61039" width="365.13237" height="638.13149" fill="#f6f6f6"/>
+            </g>
+            <g id="Nummern-nn02-r-wd-ref">
+                <text id="_-n1" data-name="-n1" transform="translate(263.81669 249.18309)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">01
+                </text>
+                <text id="_-n2" data-name="-n2" transform="translate(263.8162 267.69286)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">02
+                </text>
+                <text id="_-n3" data-name="-n3" transform="translate(263.81425 286.61864)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">03
+                </text>
+                <text id="_-n4" data-name="-n4" transform="translate(263.8162 305.54247)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">04
+                </text>
+                <text id="_-n5" data-name="-n5" transform="translate(263.8162 324.4663)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">05
+                </text>
+                <text id="_-n6" data-name="-n6" transform="translate(263.8162 343.39208)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">06
+                </text>
+                <text id="_-n7" data-name="-n7" transform="translate(263.8162 362.31591)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">07
+                </text>
+                <text id="_-n8" data-name="-n8" transform="translate(263.81425 381.23973)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">08
+                </text>
+                <text id="_-n9" data-name="-n9" transform="translate(263.81425 400.16551)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">09
+                </text>
+                <text id="_-n10" data-name="-n10" transform="translate(263.8162 419.0913)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">10
+                </text>
+                <text id="_-n11" data-name="-n11" transform="translate(263.8162 438.01512)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">11
+                </text>
+                <text id="_-n12" data-name="-n12" transform="translate(263.8162 456.937)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">12
+                </text>
+                <text id="_-n13" data-name="-n13" transform="translate(263.8162 475.86278)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">13
+                </text>
+                <text id="_-n14" data-name="-n14" transform="translate(263.8162 494.78661)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">14
+                </text>
+                <text id="_-n15" data-name="-n15" transform="translate(263.8162 513.71239)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">15
+                </text>
+                <text id="_-n16" data-name="-n16" transform="translate(264.79911 532.63622)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">16
+                </text>
+                <text id="_-n17" data-name="-n17" transform="translate(264.79911 551.56005)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">17
+                </text>
+                <text id="_-n18" data-name="-n18" transform="translate(264.79911 570.48387)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">18
+                </text>
+                <text id="_-n19" data-name="-n19" transform="translate(264.79911 589.41161)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">19
+                </text>
+                <text id="_-n20" data-name="-n20" transform="translate(264.79911 608.33348)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">20
+                </text>
+                <text id="_-n21" data-name="-n21" transform="translate(264.79911 627.25926)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">21
+                </text>
+                <text id="_-n22" data-name="-n22" transform="translate(264.79911 646.18309)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">22
+                </text>
+                <text id="_-n23" data-name="-n23" transform="translate(264.79911 665.10497)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">23
+                </text>
+                <text id="_-n24" data-name="-n24" transform="translate(264.79911 684.0327)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">24
+                </text>
+                <text id="_-n25" data-name="-n25" transform="translate(264.79911 702.95653)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">25
+                </text>
+                <text id="_-n26" data-name="-n26" transform="translate(264.79911 721.88036)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">26
+                </text>
+                <text id="_-n27" data-name="-n27" transform="translate(264.79911 740.80614)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">27
+                </text>
+                <text id="_-n28" data-name="-n28" transform="translate(264.79911 759.73192)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">28
+                </text>
+                <text id="_-n29" data-name="-n29" transform="translate(264.79911 778.6538)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">29
+                </text>
+                <text id="_-n30" data-name="-n30" transform="translate(264.79911 797.57958)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">30
+                </text>
+                <text id="_-n31" data-name="-n31" transform="translate(264.79911 816.50536)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">31
+                </text>
+            </g>
+            <g id="Nummern-nn02-r-we-ref">
+                <text id="_-n1-2" data-name="-n1" transform="translate(263.60868 249.18309)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">01
+                </text>
+                <text id="_-n2-2" data-name="-n2" transform="translate(263.60868 267.69286)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">02
+                </text>
+                <text id="_-n3-2" data-name="-n3" transform="translate(263.60673 286.61864)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">03
+                </text>
+                <text id="_-n4-2" data-name="-n4" transform="translate(263.60868 305.54247)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">04
+                </text>
+                <text id="_-n5-2" data-name="-n5" transform="translate(263.60868 324.4663)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">05
+                </text>
+                <text id="_-n6-2" data-name="-n6" transform="translate(263.60868 343.39208)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">06
+                </text>
+                <text id="_-n7-2" data-name="-n7" transform="translate(263.60868 362.31591)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">07
+                </text>
+                <text id="_-n8-2" data-name="-n8" transform="translate(263.60673 381.23973)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">08
+                </text>
+                <text id="_-n9-2" data-name="-n9" transform="translate(263.60673 400.16551)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">09
+                </text>
+                <text id="_-n10-2" data-name="-n10" transform="translate(263.60868 419.0913)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">10
+                </text>
+                <text id="_-n11-2" data-name="-n11" transform="translate(263.60868 438.01512)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">11
+                </text>
+                <text id="_-n12-2" data-name="-n12" transform="translate(263.60868 456.937)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">12
+                </text>
+                <text id="_-n13-2" data-name="-n13" transform="translate(263.60868 475.86278)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">13
+                </text>
+                <text id="_-n14-2" data-name="-n14" transform="translate(263.60868 494.78661)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">14
+                </text>
+                <text id="_-n15-2" data-name="-n15" transform="translate(263.60868 513.71239)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">15
+                </text>
+                <text id="_-n16-2" data-name="-n16" transform="translate(264.59159 532.63622)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">16
+                </text>
+                <text id="_-n17-2" data-name="-n17" transform="translate(264.59159 551.56005)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">17
+                </text>
+                <text id="_-n18-2" data-name="-n18" transform="translate(264.59159 570.48387)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">18
+                </text>
+                <text id="_-n19-2" data-name="-n19" transform="translate(264.59159 589.41161)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">19
+                </text>
+                <text id="_-n20-2" data-name="-n20" transform="translate(264.59159 608.33348)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">20
+                </text>
+                <text id="_-n21-2" data-name="-n21" transform="translate(264.59159 627.25926)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">21
+                </text>
+                <text id="_-n22-2" data-name="-n22" transform="translate(264.59159 646.18309)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">22
+                </text>
+                <text id="_-n23-2" data-name="-n23" transform="translate(264.59159 665.10497)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">23
+                </text>
+                <text id="_-n24-2" data-name="-n24" transform="translate(264.59159 684.0327)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">24
+                </text>
+                <text id="_-n25-2" data-name="-n25" transform="translate(264.59159 702.95653)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">25
+                </text>
+                <text id="_-n26-2" data-name="-n26" transform="translate(264.59159 721.88036)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">26
+                </text>
+                <text id="_-n27-2" data-name="-n27" transform="translate(264.59159 740.80614)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">27
+                </text>
+                <text id="_-n28-2" data-name="-n28" transform="translate(264.59159 759.73192)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">28
+                </text>
+                <text id="_-n29-2" data-name="-n29" transform="translate(264.59159 778.6538)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">29
+                </text>
+                <text id="_-n30-2" data-name="-n30" transform="translate(264.59159 797.57958)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">30
+                </text>
+                <text id="_-n31-2" data-name="-n31" transform="translate(264.59159 816.50536)" font-size="8.50674"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">31
+                </text>
+            </g>
+            <g id="Wochentage-dt2-l-wd-ref">
+                <text id="_-d1" data-name="-d1" transform="translate(242.76349 248.76903)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">Do
+                </text>
+                <text id="_-d2" data-name="-d2" transform="translate(242.76349 267.69286)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">Fr
+                </text>
+                <text id="_-d3" data-name="-d3" transform="translate(242.76349 286.61864)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">Sa
+                </text>
+                <text id="_-d4" data-name="-d4" transform="translate(242.76349 305.54247)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">So
+                </text>
+                <text id="_-d5" data-name="-d5" transform="translate(242.76349 324.4663)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">Mo
+                </text>
+                <text id="_-d6" data-name="-d6" transform="translate(242.76349 343.39208)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">Di
+                </text>
+                <text id="_-d7" data-name="-d7" transform="translate(242.76349 362.31591)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">Mi
+                </text>
+                <text id="_-d8" data-name="-d8" transform="translate(242.76349 381.24169)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">Do
+                </text>
+                <text id="_-d9" data-name="-d9" transform="translate(242.76349 400.16551)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">Fr
+                </text>
+                <text id="_-d10" data-name="-d10" transform="translate(242.76349 419.0913)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">Sa
+                </text>
+                <text id="_-d11" data-name="-d11" transform="translate(242.76349 438.01512)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">So
+                </text>
+                <text id="_-d12" data-name="-d12" transform="translate(242.76349 456.93895)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">Mo
+                </text>
+                <text id="_-d13" data-name="-d13" transform="translate(242.76349 475.86278)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">Di
+                </text>
+                <text id="_-d14" data-name="-d14" transform="translate(242.76349 494.78661)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">Mi
+                </text>
+                <text id="_-d15" data-name="-d15" transform="translate(242.76349 513.71239)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">Do
+                </text>
+                <text id="_-d16" data-name="-d16" transform="translate(242.76349 532.63622)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">Fr
+                </text>
+                <text id="_-d17" data-name="-d17" transform="translate(242.76349 551.562)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">Sa
+                </text>
+                <text id="_-d18" data-name="-d18" transform="translate(242.76349 570.48387)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">So
+                </text>
+                <text id="_-d19" data-name="-d19" transform="translate(242.76349 589.41161)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">Mo
+                </text>
+                <text id="_-d20" data-name="-d20" transform="translate(242.76349 608.33544)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">Di
+                </text>
+                <text id="_-d21" data-name="-d21" transform="translate(242.76349 627.25926)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">Mi
+                </text>
+                <text id="_-d22" data-name="-d22" transform="translate(242.76349 646.18309)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">Do
+                </text>
+                <text id="_-d23" data-name="-d23" transform="translate(242.76349 665.10887)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">Fr
+                </text>
+                <text id="_-d24" data-name="-d24" transform="translate(242.76349 684.0327)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">Sa
+                </text>
+                <text id="_-d25" data-name="-d25" transform="translate(242.76349 702.95653)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">So
+                </text>
+                <text id="_-d26" data-name="-d26" transform="translate(242.76349 721.88036)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">Mo
+                </text>
+                <text id="_-d27" data-name="-d27" transform="translate(242.76349 740.80614)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">Di
+                </text>
+                <text id="_-d28" data-name="-d28" transform="translate(242.76349 759.73192)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">Mi
+                </text>
+                <text id="_-d29" data-name="-d29" transform="translate(242.76349 778.65575)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">Do
+                </text>
+                <text id="_-d30" data-name="-d30" transform="translate(242.76349 797.57958)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">Fr
+                </text>
+                <text id="_-d31" data-name="-d31" transform="translate(242.76349 816.50536)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Regular, Roboto">Sa
+                </text>
+            </g>
+            <g id="Wochentage-dt2-l-we-ref">
+                <text id="_-d1-2" data-name="-d1" transform="translate(242.76349 248.76903)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">Do
+                </text>
+                <text id="_-d2-2" data-name="-d2" transform="translate(242.76349 267.69286)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">Fr
+                </text>
+                <text id="_-d3-2" data-name="-d3" transform="translate(242.76349 286.61864)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">Sa
+                </text>
+                <text id="_-d4-2" data-name="-d4" transform="translate(242.76349 305.54247)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">So
+                </text>
+                <text id="_-d5-2" data-name="-d5" transform="translate(242.76349 324.4663)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">Mo
+                </text>
+                <text id="_-d6-2" data-name="-d6" transform="translate(242.76349 343.39208)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">Di
+                </text>
+                <text id="_-d7-2" data-name="-d7" transform="translate(242.76349 362.31591)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">Mi
+                </text>
+                <text id="_-d8-2" data-name="-d8" transform="translate(242.76349 381.24169)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">Do
+                </text>
+                <text id="_-d9-2" data-name="-d9" transform="translate(242.76349 400.16551)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">Fr
+                </text>
+                <text id="_-d10-2" data-name="-d10" transform="translate(242.76349 419.0913)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">Sa
+                </text>
+                <text id="_-d11-2" data-name="-d11" transform="translate(242.76349 438.01512)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">So
+                </text>
+                <text id="_-d12-2" data-name="-d12" transform="translate(242.76349 456.93895)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">Mo
+                </text>
+                <text id="_-d13-2" data-name="-d13" transform="translate(242.76349 475.86278)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">Di
+                </text>
+                <text id="_-d14-2" data-name="-d14" transform="translate(242.76349 494.78661)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">Mi
+                </text>
+                <text id="_-d15-2" data-name="-d15" transform="translate(242.76349 513.71239)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">Do
+                </text>
+                <text id="_-d16-2" data-name="-d16" transform="translate(242.76349 532.63622)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">Fr
+                </text>
+                <text id="_-d17-2" data-name="-d17" transform="translate(242.76349 551.562)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">Sa
+                </text>
+                <text id="_-d18-2" data-name="-d18" transform="translate(242.76349 570.48387)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">So
+                </text>
+                <text id="_-d19-2" data-name="-d19" transform="translate(242.76349 589.41161)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">Mo
+                </text>
+                <text id="_-d20-2" data-name="-d20" transform="translate(242.76349 608.33544)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">Di
+                </text>
+                <text id="_-d21-2" data-name="-d21" transform="translate(242.76349 627.25926)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">Mi
+                </text>
+                <text id="_-d22-2" data-name="-d22" transform="translate(242.76349 646.18309)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">Do
+                </text>
+                <text id="_-d23-2" data-name="-d23" transform="translate(242.76349 665.10887)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">Fr
+                </text>
+                <text id="_-d24-2" data-name="-d24" transform="translate(242.76349 684.0327)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">Sa
+                </text>
+                <text id="_-d25-2" data-name="-d25" transform="translate(242.76349 702.95653)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">So
+                </text>
+                <text id="_-d26-2" data-name="-d26" transform="translate(242.76349 721.88036)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">Mo
+                </text>
+                <text id="_-d27-2" data-name="-d27" transform="translate(242.76349 740.80614)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">Di
+                </text>
+                <text id="_-d28-2" data-name="-d28" transform="translate(242.76349 759.73192)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">Mi
+                </text>
+                <text id="_-d29-2" data-name="-d29" transform="translate(242.76349 778.65575)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">Do
+                </text>
+                <text id="_-d30-2" data-name="-d30" transform="translate(242.76349 797.57958)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">Fr
+                </text>
+                <text id="_-d31-2" data-name="-d31" transform="translate(242.76349 816.50536)" font-size="8.70476"
+                      fill="#3c3c3b" font-family="Roboto-Bold, Roboto" font-weight="700">Sa
+                </text>
+            </g>
+            <g id="Linien-ref">
+                <line x1="280.64106" y1="248.76885" x2="365.64374" y2="248.76885" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="280.64106" y1="267.69317" x2="365.64374" y2="267.69317" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="280.64106" y1="286.61788" x2="365.64374" y2="286.61788" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="280.64106" y1="305.54214" x2="365.64374" y2="305.54214" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="280.64106" y1="324.46693" x2="365.64374" y2="324.46693" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="280.64106" y1="343.39133" x2="365.64374" y2="343.39133" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="280.64106" y1="362.85195" x2="365.64374" y2="362.85195" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="280.64106" y1="381.24034" x2="365.64374" y2="381.24034" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="280.64106" y1="400.16507" x2="365.64374" y2="400.16507" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="280.64106" y1="419.08938" x2="365.64374" y2="419.08938" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="280.64106" y1="438.01409" x2="365.64374" y2="438.01409" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="280.64106" y1="456.93835" x2="365.64374" y2="456.93835" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="280.64106" y1="475.86314" x2="365.64374" y2="475.86314" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="280.64106" y1="494.78754" x2="365.64374" y2="494.78754" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="280.64106" y1="514.24816" x2="365.64374" y2="514.24816" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="280.64106" y1="532.63655" x2="365.64374" y2="532.63655" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="280.64106" y1="551.56079" x2="365.64374" y2="551.56079" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="280.64106" y1="570.48511" x2="365.64374" y2="570.48511" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="280.64106" y1="589.40982" x2="365.64374" y2="589.40982" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="280.64106" y1="608.33408" x2="365.64374" y2="608.33408" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="280.64106" y1="627.25887" x2="365.64374" y2="627.25887" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="280.64106" y1="646.18327" x2="365.64374" y2="646.18327" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="280.64106" y1="665.64389" x2="365.64374" y2="665.64389" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="280.64106" y1="684.03227" x2="365.64374" y2="684.03227" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="280.64106" y1="702.9571" x2="365.64374" y2="702.9571" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="280.64106" y1="721.88135" x2="365.64374" y2="721.88135" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="280.64106" y1="740.80614" x2="365.64374" y2="740.80614" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="280.64106" y1="759.73054" x2="365.64374" y2="759.73054" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line id="_-n29-3" data-name="-n29" x1="280.64106" y1="779.19117" x2="365.64374" y2="779.19117"
+                      fill="none" stroke="#3c3c3b" stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line id="_-n30-3" data-name="-n30" x1="280.64106" y1="797.57955" x2="365.64374" y2="797.57955"
+                      fill="none" stroke="#3c3c3b" stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line id="_-n31-3" data-name="-n31" x1="280.64106" y1="816.50435" x2="365.64374" y2="816.50435"
+                      fill="none" stroke="#3c3c3b" stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="381.49563" y1="248.76885" x2="466.4983" y2="248.76885" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="381.49563" y1="267.69317" x2="466.4983" y2="267.69317" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="381.49563" y1="286.61788" x2="466.4983" y2="286.61788" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="381.49563" y1="305.54214" x2="466.4983" y2="305.54214" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="381.49563" y1="324.46693" x2="466.4983" y2="324.46693" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="381.49563" y1="343.39133" x2="466.4983" y2="343.39133" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="381.49563" y1="362.85195" x2="466.4983" y2="362.85195" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="381.49563" y1="381.24034" x2="466.4983" y2="381.24034" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="381.49563" y1="400.16507" x2="466.4983" y2="400.16507" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="381.49563" y1="419.08938" x2="466.4983" y2="419.08938" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="381.49563" y1="438.01409" x2="466.4983" y2="438.01409" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="381.49563" y1="456.93835" x2="466.4983" y2="456.93835" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="381.49563" y1="475.86314" x2="466.4983" y2="475.86314" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="381.49563" y1="494.78754" x2="466.4983" y2="494.78754" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="381.49563" y1="514.24816" x2="466.4983" y2="514.24816" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="381.49563" y1="532.63655" x2="466.4983" y2="532.63655" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="381.49563" y1="551.56079" x2="466.4983" y2="551.56079" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="381.49563" y1="570.48511" x2="466.4983" y2="570.48511" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="381.49563" y1="589.40982" x2="466.4983" y2="589.40982" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="381.49563" y1="608.33408" x2="466.4983" y2="608.33408" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="381.49563" y1="627.25887" x2="466.4983" y2="627.25887" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="381.49563" y1="646.18327" x2="466.4983" y2="646.18327" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="381.49563" y1="665.64389" x2="466.4983" y2="665.64389" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="381.49563" y1="684.03227" x2="466.4983" y2="684.03227" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="381.49563" y1="702.9571" x2="466.4983" y2="702.9571" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="381.49563" y1="721.88135" x2="466.4983" y2="721.88135" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="381.49563" y1="740.80614" x2="466.4983" y2="740.80614" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="381.49563" y1="759.73054" x2="466.4983" y2="759.73054" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line id="_-n29-4" data-name="-n29" x1="381.49563" y1="779.19117" x2="466.4983" y2="779.19117"
+                      fill="none" stroke="#3c3c3b" stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line id="_-n30-4" data-name="-n30" x1="381.49563" y1="797.57955" x2="466.4983" y2="797.57955"
+                      fill="none" stroke="#3c3c3b" stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line id="_-n31-4" data-name="-n31" x1="381.49563" y1="816.50435" x2="466.4983" y2="816.50435"
+                      fill="none" stroke="#3c3c3b" stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="484.44836" y1="248.76885" x2="569.45104" y2="248.76885" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="484.44836" y1="267.69317" x2="569.45104" y2="267.69317" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="484.44836" y1="286.61788" x2="569.45104" y2="286.61788" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="484.44836" y1="305.54214" x2="569.45104" y2="305.54214" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="484.44836" y1="324.46693" x2="569.45104" y2="324.46693" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="484.44836" y1="343.39133" x2="569.45104" y2="343.39133" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="484.44836" y1="362.85195" x2="569.45104" y2="362.85195" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="484.44836" y1="381.24034" x2="569.45104" y2="381.24034" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="484.44836" y1="400.16507" x2="569.45104" y2="400.16507" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="484.44836" y1="419.08938" x2="569.45104" y2="419.08938" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="484.44836" y1="438.01409" x2="569.45104" y2="438.01409" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="484.44836" y1="456.93835" x2="569.45104" y2="456.93835" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="484.44836" y1="475.86314" x2="569.45104" y2="475.86314" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="484.44836" y1="494.78754" x2="569.45104" y2="494.78754" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="484.44836" y1="514.24816" x2="569.45104" y2="514.24816" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="484.44836" y1="532.63655" x2="569.45104" y2="532.63655" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="484.44836" y1="551.56079" x2="569.45104" y2="551.56079" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="484.44836" y1="570.48511" x2="569.45104" y2="570.48511" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="484.44836" y1="589.40982" x2="569.45104" y2="589.40982" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="484.44836" y1="608.33408" x2="569.45104" y2="608.33408" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="484.44836" y1="627.25887" x2="569.45104" y2="627.25887" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="484.44836" y1="646.18327" x2="569.45104" y2="646.18327" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="484.44836" y1="665.64389" x2="569.45104" y2="665.64389" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="484.44836" y1="684.03227" x2="569.45104" y2="684.03227" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="484.44836" y1="702.9571" x2="569.45104" y2="702.9571" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="484.44836" y1="721.88135" x2="569.45104" y2="721.88135" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="484.44836" y1="740.80614" x2="569.45104" y2="740.80614" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line x1="484.44836" y1="759.73054" x2="569.45104" y2="759.73054" fill="none" stroke="#3c3c3b"
+                      stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line id="_-n29-5" data-name="-n29" x1="484.44836" y1="779.19117" x2="569.45104" y2="779.19117"
+                      fill="none" stroke="#3c3c3b" stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line id="_-n30-5" data-name="-n30" x1="484.44836" y1="797.57955" x2="569.45104" y2="797.57955"
+                      fill="none" stroke="#3c3c3b" stroke-miterlimit="10" stroke-width="0.32372"/>
+                <line id="_-n31-5" data-name="-n31" x1="484.44836" y1="816.50435" x2="569.45104" y2="816.50435"
+                      fill="none" stroke="#3c3c3b" stroke-miterlimit="10" stroke-width="0.32372"/>
+            </g>
+            <text id="mt9-l-ref" transform="translate(28.34619 814.13895)" font-size="30.41794" fill="#fff"
+                  font-family="Habitat-Press, Habitat">September
+            </text>
+        </g>
+    </g>
+</svg>
