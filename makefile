@@ -1,4 +1,4 @@
-image=svg-bbox
+image=rustvg
 
 request:
 	curl -X POST \
@@ -10,11 +10,11 @@ build:
 
 run-server: build
 	docker run --init -it --rm \
-		--memory=256m --cpus=0.2 \
+		--memory=128m --cpus=0.1 \
 		-p 8080:8080 \
 		$(image)
 
 vegeta:
-	vegeta attack -targets=request.txt -format=http -duration=20s -timeout=60s \
+	vegeta attack -targets=request.txt -format=http -duration=20s -rate=2000 \
 	| tee results.bin \
 	| vegeta report
