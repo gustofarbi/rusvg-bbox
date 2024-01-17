@@ -13,7 +13,7 @@ RUN --mount=type=cache,target=/usr/local/cargo/registry \
     && mv target/release/server /tmp/server
 
 
-FROM alpine:3.19
+FROM alpine:3.19.0
 
 COPY --from=builder /tmp/server /usr/local/bin/server
 
