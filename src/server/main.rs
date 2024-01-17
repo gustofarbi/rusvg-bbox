@@ -5,6 +5,11 @@ use warp::Filter;
 
 #[tokio::main]
 async fn main() {
+    env_logger::Builder::new()
+        .filter_level(log::LevelFilter::Debug)
+        .target(env_logger::Target::Stdout)
+        .init();
+
     let bbox = warp::post()
         .and(warp::path("bbox"))
         .and(warp::body::json())
@@ -26,6 +31,8 @@ async fn main() {
         .map(|| "ok");
 
     let routes = bbox.or(health);
+
+    log::info!("Starting server on port 8080");
 
     warp::serve(routes)
         .run(([0, 0, 0, 0], 8080))
@@ -57,16 +64,15 @@ impl From<usvg::Rect> for Response {
     }
 }
 
-fn bbox(path: String) -> anyhow::Result<usvg::Rect> {
-    let content = std::fs::read_to_string(path.clone())?;
+fn bbox(content: String) -> anyhow::Result<usvg::Rect> {
     let mut tree = usvg::Tree::from_str(content.as_str(), &usvg::Options::default());
 
     if tree.is_err() {
         // try to wrap the content in an svg tag
-        tree = usvg::Tree::from_str(wrap_content(content).as_str(), &usvg::Options::default());
+        tree = usvg::Tree::from_str(wrap_content(content.clone()).as_str(), &usvg::Options::default());
     }
 
-    let tree = tree.map_err(|e| anyhow::anyhow!("failed to parse {}: {:?}", path, e))?;
+    let tree = tree.map_err(|e| anyhow::anyhow!("failed to parse {}: {:?}", content, e))?;
     let bbox = tree.root.calculate_bbox().context("failed to calculate bbox")?;
     let rect = bbox.to_rect();
 
