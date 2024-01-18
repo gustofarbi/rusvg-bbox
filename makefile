@@ -10,7 +10,7 @@ build:
 
 run-server: build
 	docker run --init -it --rm \
-		--memory=128m --cpus=0.1 \
+		--memory=64m --cpus=0.05 \
 		-p 8080:8080 \
 		$(image)
 

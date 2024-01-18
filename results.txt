@@ -1,12 +1,13 @@
 60 requests per second
 1080 requests in total
 
-cpu:     100m                                                                                                                                                                                            │
-memory:  128Mi
+cpu:     50m                                                                                                                                                                                            │
+memory:  64Mi
+
 
 Requests      [total, rate, throughput]         1080, 60.06, 60.05
-Duration      [total, attack, wait]             17.986s, 17.983s, 3.12ms
-Latencies     [min, mean, 50, 90, 95, 99, max]  583.417µs, 3.056ms, 2.433ms, 4.943ms, 5.954ms, 14.423ms, 59.496ms
+Duration      [total, attack, wait]             17.986s, 17.983s, 2.684ms
+Latencies     [min, mean, 50, 90, 95, 99, max]  696.75µs, 16.777ms, 2.885ms, 22.877ms, 118.828ms, 270.432ms, 414.378ms
 Bytes In      [total, mean]                     85320, 79.00
 Bytes Out     [total, mean]                     1709640, 1583.00
 Success       [ratio]                           100.00%

@@ -15,8 +15,7 @@ async fn main() {
         .and(warp::path("bbox"))
         .and(warp::body::json())
         .map(|request: Request| {
-            let content = request.content;
-            let bbox = bbox(content);
+            let bbox = bbox(request.content);
 
             return if let Ok(bbox) = bbox {
                 let bbox: Response = bbox.into();
