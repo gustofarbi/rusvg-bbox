@@ -16,8 +16,8 @@ import (
 )
 
 var (
-	conc        = flag.Int("conc", 100, "number of concurrent requests")
-	numRequests = flag.Int("n", 10000, "number of requests")
+	conc        = flag.Int("conc", 50, "number of concurrent requests")
+	numRequests = flag.Int("n", 1000, "number of requests")
 )
 
 func main() {

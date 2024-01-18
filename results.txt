@@ -1,13 +1,13 @@
-200 requests per second
-10000 requests in total
+60 requests per second
+1080 requests in total
 
 cpu:     100m                                                                                                                                                                                            │
 memory:  128Mi
 
-Requests      [total, rate, throughput]         10400, 200.02, 200.01
-Duration      [total, attack, wait]             51.997s, 51.995s, 2.352ms
-Latencies     [min, mean, 50, 90, 95, 99, max]  335.417µs, 3.487ms, 2.078ms, 5.448ms, 9.304ms, 33.387ms, 140.037ms
-Bytes In      [total, mean]                     821600, 79.00
-Bytes Out     [total, mean]                     16463200, 1583.00
+Requests      [total, rate, throughput]         1080, 60.06, 60.05
+Duration      [total, attack, wait]             17.986s, 17.983s, 3.12ms
+Latencies     [min, mean, 50, 90, 95, 99, max]  583.417µs, 3.056ms, 2.433ms, 4.943ms, 5.954ms, 14.423ms, 59.496ms
+Bytes In      [total, mean]                     85320, 79.00
+Bytes Out     [total, mean]                     1709640, 1583.00
 Success       [ratio]                           100.00%
-Status Codes  [code:count]                      200:10400
+Status Codes  [code:count]                      200:1080

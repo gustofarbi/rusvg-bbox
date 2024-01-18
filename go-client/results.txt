@@ -1,12 +1,12 @@
-100 workers
-10000 requests
+50 workers
+1000 requests
 
 cpu:     600m                                                                                                                                                                                            │
 memory:  200Mi
 
-total time: 51.90250875s
+total time: 18.21017475s
 
-mean: 517.305686ms
-maxDur: 1.534211583s
-minDur: 141.456666ms
-stddev: 3.592083ms
+mean: 890.830278ms
+maxDur: 2.362597458s
+minDur: 201.442167ms
+stddev: 94.048934ms
