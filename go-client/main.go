@@ -17,7 +17,7 @@ import (
 
 var (
 	conc        = flag.Int("conc", 100, "number of concurrent requests")
-	numRequests = flag.Int("n", 40000, "number of requests")
+	numRequests = flag.Int("n", 10000, "number of requests")
 )
 
 func main() {
@@ -63,6 +63,7 @@ func main() {
 		panic(err)
 	}
 
+	start := time.Now()
 	for i := 0; i < *numRequests; i++ {
 		wg.Add(1)
 		if err = pool.Invoke(i); err != nil {
@@ -73,8 +74,10 @@ func main() {
 	wg.Wait()
 	pool.Release()
 
-	mean, max, min, stddev := calculateStats(times)
-	fmt.Printf("\nmean: %v\nmax: %v\nmin: %v\nstddev: %v\n", mean, max, min, stddev)
+	fmt.Println()
+	fmt.Printf("\ntotal time: %s\n", time.Since(start))
+	mean, maxDur, minDur, stddev := calculateStats(times)
+	fmt.Printf("\nmean: %v\nmaxDur: %v\nminDur: %v\nstddev: %v\n", mean, maxDur, minDur, stddev)
 }
 
 func calculateStats(durations []time.Duration) (mean, max, min, stddev time.Duration) {

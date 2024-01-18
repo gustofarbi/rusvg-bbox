@@ -15,6 +15,6 @@ run-server: build
 		$(image)
 
 vegeta:
-	vegeta attack -targets=request.txt -format=http -duration=20s -rate=2000 \
+	vegeta attack -targets=request.txt -format=http -duration=52s -timeout=20s -rate=200 \
 	| tee results.bin \
 	| vegeta report
