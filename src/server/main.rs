@@ -123,7 +123,9 @@ mod tests {
     #[test]
     fn test_bbox() {
         // heart.svg,571.6644,122.1925,47.2223,40.7656
-        let bbox = bbox("testdata/heart.svg".to_string()).unwrap();
+        let content = std::fs::read_to_string("testdata/heart.svg").unwrap();
+        let bbox = bbox(content).unwrap();
+
         assert_eq!(float_4_decimals(bbox.x()), 571.6644);
         assert_eq!(float_4_decimals(bbox.y()), 122.1925);
         assert_eq!(float_4_decimals(bbox.width()), 47.2223);

@@ -1,0 +1,7 @@
+100 threads
+40000 requests
+
+mean: 418.189363ms
+max: 1.790399417s
+min: 141.3045ms
+stddev: 15.043449ms

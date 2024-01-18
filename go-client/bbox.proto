@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option go_package = "./svgbbox";
+
+package svgbbox;
+
+service CalculateBBox {
+  rpc GetBBox(Svg) returns (BBox) {}
+}
+
+message Svg {
+  string content = 1;
+}
+
+message BBox {
+  float x = 1;
+  float y = 2;
+  float width = 3;
+  float height = 4;
+}
